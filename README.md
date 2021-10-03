@@ -22,4 +22,9 @@ the press about the Cazza equipment being ready.
 
 Inspired by the project, I've tried to recreate some kind of feasible architecture
 for the robotic arm. It's not a strict study, nor it's perfect, but here you can
-see my results.s
+see my results.
+
+This files have been used for the project of the the course of Robot Mechanics, 
+part of the Master Degree in [Robotics and Automation Engineering](http://www.aut.ing.unipi.it/),
+attended at the [University of Pisa](https://www.unipi.it/).
+
